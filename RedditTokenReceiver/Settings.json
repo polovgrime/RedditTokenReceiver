@@ -1,0 +1,8 @@
+{
+  "AppId": "reddit app id",
+  "BrowserPath": "path to browser",
+  "Port": 8080,
+  "WaitForInput": true,
+  "TokenSavePath": "path for saving",
+  "Scope": "creddits%20modcontributors%20modmail%20modconfig%20subscribe%20structuredstyles%20vote%20wikiedit%20mysubreddits%20submit%20modlog%20modposts%20modflair%20save%20modothers%20read%20privatemessages%20report%20identity%20livemanage%20account%20modtraffic%20wikiread%20edit%20modwiki%20modself%20history%20flair"
+}
